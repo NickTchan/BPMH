@@ -43,6 +43,18 @@ Experts adapt by:
 - Relying more heavily on professional records (pharmacy, GP, My Health Record) when patient input is limited
 - Using simple, non-medical language when speaking with patients
 
+## Telehealth/VMM-Specific Communication Barriers
+
+Video-mediated medication (VMM) and telehealth consultations introduce additional barriers beyond in-person challenges:
+
+- **Visual cue loss:** Body language, physical appearance, and pain indicators (e.g., wincing) are harder to detect or entirely absent, especially in audio-only calls
+- **No physical medication examination:** The clinician cannot assess the patient's actual medications — cannot check pill condition, assess puffer emptiness (*"this feels quite empty — when did you last get a new one?"*), or use loose tablet identification heuristics (*"I feel like a blue one"*)
+- **Patient technology access:** Not all patients have cameras or video-capable devices, forcing audio-only consultations
+- **Patient privacy concerns:** Embarrassment about their home environment may lead patients to block camera use, further reducing available cues
+- **Mitigation strategies:**
+  - Require camera-on when possible to recover visual context clues
+  - In audio-only settings, be *"more clever"* about conversational techniques — ask more targeted probing questions to compensate for the loss of physical and visual information
+
 ## Novice Vulnerability
 
 Novices may proceed with a standard interview despite obvious communication barriers, producing an unreliable BPMH.
