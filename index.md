@@ -2,7 +2,7 @@
 title: Best Possible Medication History (BPMH) in NSW Health — Expertise Map
 slug: bpmh-nsw-health-expertise-map
 domain_ref: okf/domain/bpmh-nsw-health.md
-generated: 2026-06-22
+generated: 2026-06-29
 generator: ExpertiseMappingAgent
 okf_version: 0.1
 phase_completed: 1 2 3
@@ -61,6 +61,7 @@ This Expertise Map covers the knowledge, procedures, decisions, and tacit expert
 | [PRC-002](procedures/verify-medication-history-accuracy.md) | Verify Medication History Accuracy to Achieve BPMH | Procedure | documented |
 | [PRC-003](procedures/compare-bpmh-to-prescribed-medicines.md) | Compare BPMH Against Prescribed Medicines | Procedure | documented |
 | [PRC-004](procedures/supply-medicines-information.md) | Supply Accurate Medicines Information | Procedure | documented |
+| [PRC-005](procedures/patient-counselling-techniques.md) | Patient Counselling Techniques for Medication Changes | Procedure | documented |
 
 ### Decision Points
 | ID | Title | Type | Certainty |
@@ -123,7 +124,7 @@ This Expertise Map covers the knowledge, procedures, decisions, and tacit expert
 | [GAP-003](gaps/clinical-rationale-recognition-cues.md) | Expert Cues for Recognising Clinically Obvious Medication Changes | 4 | [DISC-001], [DEC-001] | tacit_candidate |
 | [GAP-004](gaps/adherence-assessment-cues.md) | Expert Cues and Probing Strategies for Detecting Non-Adherence | 4 | [DEC-006], [CON-007] | tacit_candidate |
 | [GAP-006](gaps/polypharmacy-heuristics.md) | Expert Heuristics for Managing Polypharmacy in BPMH | 3 | [HEUR-001], [CX-001] | tacit_candidate |
-| [GAP-007](gaps/novice-to-competent-transition.md) | Transition Triggers from Novice to Competent BPMH Practitioner | 3 | [LC-001], [NOV-001] | missing |
+| [GAP-007](gaps/novice-to-competent-transition.md) | Transition Triggers from Novice to Competent BPMH Practitioner | 3 | [LC-001], [NOV-001] | probed |
 | [GAP-008](gaps/discharge-communication-effectiveness.md) | Expert Strategies for Effective Discharge Medication Communication | 3 | [PRC-004], [TSK-003] | tacit_candidate |
 
 ### References
@@ -136,4 +137,4 @@ This Expertise Map covers the knowledge, procedures, decisions, and tacit expert
 | [REF-005](references/health-gov-au-guiding-principles.md) | Australian Government — Guiding Principles | Reference |
 | [REF-006](references/ho-2026-bpmh-review.md) | Ho et al. (2026) — BPMH Interview Guide Scoping Review | Reference |
 | [REF-007](references/ncbi-med-rec-overview.md) | NCBI — Medication Reconciliation Overview | Reference |
-| [REF-008](references/springer-nature-umds.md) | Springer Nature — UMDs in Hospitalised Patients | Reference |
+| [REF-008](references/springer-nature-umds.md) | Springer Nature — Unintended Medication Discrepancies at Transitions of Care | Reference |
