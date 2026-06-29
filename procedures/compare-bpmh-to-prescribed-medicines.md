@@ -52,6 +52,16 @@ For each medication in the current orders:
 - Present discrepancies to the prescribing clinician
 - Collaborate to classify and resolve each discrepancy
 
+## Role Division in NSW Health EMR Workflow
+
+The reconciliation process involves distinct roles for pharmacists and prescribers:
+
+- **Pharmacist role:** Prepare the BPMH through multi-source verification and patient interview; document findings; support the prescriber with clinical input and medication expertise
+- **Prescriber role:** Execute the EMR reconciliation — open the reconciliation screen with medication history on one side and final outcomes on the other; create the discharge summary and prescriptions
+- **Pharmacist post-step:** Double-check the discharge summary and prescriptions for completeness and accuracy
+
+> **Note:** This role division may vary by Local Health District (LHD) and EMR system configuration. Always confirm local workflow expectations.
+
 ## Decision Points
 
 - **[DEC-001](../decisions/classify-discrepancy-intentional-vs-unintentional.md)** — Classify each discrepancy
@@ -64,5 +74,5 @@ A documented list of all identified discrepancies, classified and with resolutio
 # Citations
 
 [1] [NSW CEC — Medication Reconciliation](https://cec.health.nsw.gov.au/therapeutics-safety/medicines-improvement/continuity/reconciliation)
-[2] [ACSQHC — Medication Safety Standard](https://www.safetyandquality.gov.au/national-standards/nsqhs-standards/medication-safety-standard)
+[2] [ACSQHC — Medication Safety Standard](https://www.safetyandquality.gov.au/standards/medication-safety-standard)
 [3] [WHO High5s SOP](https://cdn.who.int/media/docs/default-source/patient-safety/high5s/h5s-sop.pdf?sfvrsn=594d8e49_4)
