@@ -12,7 +12,7 @@ sources:
 related:
   - okf/procedures/supply-medicines-information.md
   - okf/tasks/supply-medicines-info-discharge.md
-cta_status: unprobed
+cta_status: probed
 cta_priority: 3
 cta_strategy_hint: Probe experts for their strategies for ensuring patients understand their discharge medications, and how they handle patients with low health literacy or language barriers.
 ---
@@ -29,16 +29,21 @@ A perfectly reconciled medication list is useless if the patient does not unders
 
 ## What We Know
 
-- Patients must receive a written medicines list
-- Changes must be explained in language the patient understands
-- Information must be sent to the GP/receiving provider
+Expert practitioners employ the following specific communication strategies:
+
+- **Teach-back method as gold standard:** Ask the patient to repeat medication instructions in their own words to confirm genuine understanding, not just passive acknowledgment
+- **Hard-copy documentation is mandatory:** The vast majority of patients do not retain information delivered verbally alone. A printed discharge medication list is essential — verbal-only counselling is insufficient
+- **Tailored messaging for cognitive and linguistic barriers:** For patients with cognitive decline or non-English speakers, involve a carer or professional translator. Adapt explanations to the patient's comprehension level
+- **Stakeholder communication cascade:** Ensure information flows through the full chain — carers → residential facilities → dispensing pharmacy (for dose administration aid repacks) → GP
+- **Patient-friendly medication change explanations:** Use contrastive, relatable language:
+  - *"This is the same drug, just in a different package"*
+  - *"We don't want you to take that one anymore"*
+  - Frame changes in terms the patient can connect to their existing medication knowledge
 
 ## What We Don't Know
 
-- The expert's strategies for assessing patient understanding (teach-back, demonstration, etc.)
-- How experts handle patients with low health literacy
-- How experts prioritise which changes to emphasise when there are many
-- The expert's approach to ensuring the GP receives the information in a timely and actionable format
+- How experts prioritise which changes to emphasise when there are many medication changes
+- The expert's approach to ensuring the GP receives the information in a timely and actionable format beyond standard discharge summary transmission
 
 ## CTA Priority: 3
 
