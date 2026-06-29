@@ -52,6 +52,18 @@ To provide the patient and the next care provider with an accurate, current, and
 - Use standardised discharge summary formats
 - Ensure timely transmission (ideally within 24–48 hours of discharge)
 
+## Patient Counselling Techniques
+
+Effective discharge communication requires more than handing over a list. Expert practitioners use the following techniques:
+
+- **Teach-back method:** Ask the patient to repeat the medication instructions in their own words. This confirms understanding rather than assuming comprehension from a nod or "yes"
+- **Mandatory hard-copy documentation:** The vast majority of people do not retain information delivered verbally alone. Always provide a printed discharge medication list — verbal-only counselling is insufficient
+- **Carer or translator involvement:** For patients with cognitive decline or non-English speakers, require a carer or professional translator to be present during counselling. Do not rely on family members for clinical translation unless no alternative exists
+- **Contextual medication change explanations:** Frame changes in patient-friendly, contrastive language:
+  - *"This is the same as that drug you were taking, it just looks different"*
+  - *"We don't want you to take that one anymore — here's what to take instead"*
+- **Follow-up check:** After providing written instructions, ask the patient if they have any questions. Do not assume silence means understanding
+
 ## Output
 
 A complete discharge medication plan communicated to both the patient and the receiving care provider.
