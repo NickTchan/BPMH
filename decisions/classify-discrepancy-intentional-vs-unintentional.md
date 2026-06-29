@@ -52,9 +52,25 @@ The clinician must determine: **Was this difference a deliberate clinical decisi
 | No rationale, no obvious clinical reason | Classify as **unintentional**; escalate to prescriber for resolution → **[DEC-002](../decisions/resolve-unintentional-discrepancy.md)** |
 | Uncertain | Discuss with prescriber; do not assume |
 
+## Expert Red Flags for Unintentional Discrepancy
+
+The following cues suggest a discrepancy is likely unintentional and warrants investigation:
+
+- **No documentation in medication chart or progress notes** — If a medication change cannot be found documented anywhere, it may not have been a deliberate decision
+- **Clinical indication does not match the patient's presentation or diagnosis** — A medication prescribed for a condition the patient does not have suggests an error
+- **Abnormal starting dose for a newly initiated medication** — A dose that falls outside standard prescribing ranges for a new medication may indicate a prescribing error
+- **Suspicion of wrong-patient dispensing** — In rare cases, a medication may have been dispensed to or charted for the wrong patient entirely
+
+### Investigation Pathways
+
+When a red flag is identified:
+1. **Review progress notes** — Look for prescriber documentation (handwritten notes in paper-chart environments, or EMR progress entries)
+2. **Consult the prescriber directly** — Ask about the rationale for the change
+3. **Inquire with nursing or care coordination staff** — Ward nurses or specialist coordinators (e.g., transplant coordinator) may have contextual knowledge about the medication decision
+
 ## Linked Discriminations
 
-- **[DISC-001](../discriminations/recognise-clinical-rationale-for-change.md)** — Recognising when a clinical context makes a medication change obviously intentional
+- **[DISC-001](../discriminations/recognise-clinical-rationale-for-change.md)** — Recognise when a medication change has a clear clinical rationale
 
 # Citations
 
