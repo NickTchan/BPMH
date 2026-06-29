@@ -63,6 +63,31 @@ related:
 - Adapts approach seamlessly to patient complexity, acuity, and communication capacity
 - Contributes to local policy and training
 
+## Skill Dimensions: What's Easy vs. Hard to Learn
+
+Expert practitioners describe BPMH competency as developing across three distinct dimensions, each with different learning trajectories:
+
+### Dimension 1 — Process (Easiest to Learn)
+- Tool use, SOP compliance, documentation conventions
+- Learnable through structured training and checklists
+- Most novices achieve competence in this dimension within weeks
+
+### Dimension 2 — Soft Skills (Harder to Formalise)
+- Patient interviewing and eliciting medication information
+- Teach-back counselling techniques
+- Prescriber communication adaptability — each prescriber has individual preferences (some prefer email, others in-person conversation), and reading these preferences requires on-the-job experience
+- Common novice failure mode: approaching patients in a way that puts them on the defensive, blocking information flow
+
+### Dimension 3 — Clinical Skills (Builds Iteratively)
+- Drug interaction assessment
+- Duplicate therapy detection
+- Abnormal dose recognition
+- Clinical rationale evaluation for medication changes
+- Builds through accumulated patient exposure — *"every new patient is a new case study"*
+- Cannot be acquired on day one; requires years of practice
+
+> **Key insight:** Registered pharmacists work independently after registration — there is no shoulder-checking safety net, so errors may go undetected. Clinical skills develop gradually and cannot be rushed. One expert reported approximately 4–5 years of clinical experience before first exposure to a formal medication reconciliation documentation tool, highlighting that BPMH-specific skills often build on a broader clinical foundation.
+
 # Citations
 
 [1] [WHO High5s SOP](https://cdn.who.int/media/docs/default-source/patient-safety/high5s/h5s-sop.pdf?sfvrsn=594d8e49_4)
