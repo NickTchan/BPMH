@@ -138,3 +138,20 @@ This Expertise Map covers the knowledge, procedures, decisions, and tacit expert
 | [REF-006](references/ho-2026-bpmh-review.md) | Ho et al. (2026) — BPMH Interview Guide Scoping Review | Reference |
 | [REF-007](references/ncbi-med-rec-overview.md) | NCBI — Medication Reconciliation Overview | Reference |
 | [REF-008](references/springer-nature-umds.md) | Springer Nature — Unintended Medication Discrepancies at Transitions of Care | Reference |
+
+### Curriculum Architecture
+| ID | Title | Type | Certainty |
+|----|-------|------|-----------|
+| [CUR-001](curriculum/bpmh-nsw-health-curriculum-overview.md) | BPMH NSW Health Curriculum Overview | Curriculum Overview | inferred |
+| [BLP-001](curriculum/bpmh-nsw-health-4cid-blueprint.md) | BPMH NSW Health 4C/ID Blueprint | 4C/ID Blueprint | inferred |
+| [SEG-001](curriculum/segments/seg-01-bpmh-nsw-health-knowledge-foundations.md) | Knowledge Foundations | Curriculum Segment | inferred |
+| [SEG-002](curriculum/segments/seg-02-bpmh-nsw-health-discrepancy-and-allergy-models.md) | Discrepancy and Allergy Domain Models | Curriculum Segment | inferred |
+| [SEG-003](curriculum/segments/seg-03-bpmh-nsw-health-verification-saps.md) | Verification Source Selection and Conflict Resolution SAPs | Curriculum Segment | inferred |
+| [SEG-004](curriculum/segments/seg-04-bpmh-nsw-health-discrepancy-classification-saps.md) | Discrepancy Classification and Clinical Rationale SAPs | Curriculum Segment | inferred |
+| [SEG-005](curriculum/segments/seg-05-bpmh-nsw-health-worked-example-simple-bpmh.md) | Worked Example: Simple BPMH Interview | Curriculum Segment | inferred |
+| [SEG-006](curriculum/segments/seg-06-bpmh-nsw-health-completion-task-polypharmacy.md) | Completion Task: Moderate BPMH with Polypharmacy | Curriculum Segment | inferred |
+| [SEG-007](curriculum/segments/seg-07-bpmh-nsw-health-full-performance-complex-cycle.md) | Full Performance: Complex BPMH Cycle | Curriculum Segment | inferred |
+| [SEG-008](curriculum/segments/seg-08-bpmh-nsw-health-procedural-instruction.md) | Procedural Instruction: Documentation, Comparison and Discharge | Curriculum Segment | inferred |
+| [SEG-009](curriculum/segments/seg-09-bpmh-nsw-health-part-task-practice.md) | Part-Task Practice: Polypharmacy Probing and Teach-Back | Curriculum Segment | inferred |
+| [SEG-010](curriculum/segments/seg-10-bpmh-nsw-health-reflection.md) | Reflection: Expert vs. Novice Mental Model Comparison | Curriculum Segment | inferred |
+| [SCW-001](curriculum/scenarios/bpmh-nsw-health-flagship-walkthrough.md) | BPMH NSW Health Flagship Walkthrough — Polypharmacy Elderly Admission | Scenario Walkthrough | inferred |
