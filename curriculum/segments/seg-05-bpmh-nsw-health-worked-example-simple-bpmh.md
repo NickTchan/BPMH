@@ -48,7 +48,7 @@ generated: 2026-06-30
 | Duration estimate (hours) | 1.0 |
 | LTEM target tier | 4 (Knowledge) |
 | Tooling — primary | Branching scenario (view-only mode) |
-| Tooling — supporting | — |
+
 
 ## Rationale
 
