@@ -1,7 +1,7 @@
 ---
 type: Curriculum Segment
 id: SEG-009
-title: BPMH NSW Health Segment 09 — Part-Task Practice: Polypharmacy Probing and Teach-Back
+title: BPMH NSW Health Segment 09 — "Part-Task Practice: Polypharmacy Probing and Teach-Back"
 slug: bpmh-nsw-health-seg-09-part-task-practice
 domain_ref: okf/domain/bpmh-nsw-health.md
 certainty: inferred
