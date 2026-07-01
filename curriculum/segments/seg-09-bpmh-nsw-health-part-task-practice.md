@@ -19,7 +19,7 @@ generator: CurriculumArchitectAgent
 generated: 2026-06-30
 ---
 
-# BPMH NSW Health Segment 09 — Part-Task Practice: Polypharmacy Probing and Teach-Back
+# BPMH NSW Health Segment 09 — "Part-Task Practice: Polypharmacy Probing and Teach-Back"
 
 ## Segment Metadata
 
