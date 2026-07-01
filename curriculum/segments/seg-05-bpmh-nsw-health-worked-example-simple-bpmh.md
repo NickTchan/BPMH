@@ -1,7 +1,7 @@
 ---
 type: Curriculum Segment
 id: SEG-005
-title: BPMH NSW Health Segment 05 — "Worked Example: Simple BPMH Interview"
+title: BPMH NSW Health Segment 05 — "Worked Example Simple BPMH Interview"
 slug: bpmh-nsw-health-seg-05-worked-example-simple-bpmh
 domain_ref: okf/domain/bpmh-nsw-health.md
 certainty: inferred
