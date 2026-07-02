@@ -32,6 +32,16 @@ The patient states: *"I'm allergic to [medication]."*
 
 The clinician must determine: **Is this a true immunological allergy, or is it a side effect, intolerance, or contraindication?**
 
+## Immunological vs Non-Immunological Reactions
+
+Understanding the mechanism behind a reported reaction is essential for accurate documentation and patient safety.
+
+**Immunological (true allergy):** An immune-mediated response involving antibodies (IgE or other mechanisms). Symptoms may include rash, hives, swelling, bronchospasm, or anaphylaxis. These reactions require formal allergy documentation and avoidance of the causative agent.
+
+**Non-immunological (side effect / intolerance):** A reaction caused by the direct pharmacological action of the medicine, not by the immune system. Common examples include gastrointestinal upset, drowsiness, headache, and dry mouth. These are **not** true allergies and should be documented as intolerances or side effects.
+
+> **Tacit cue:** Parents and patients frequently report "allergic" when describing expected side effects (e.g., drowsiness from an antihistamine, GI upset from antibiotics). Use open-ended questions — *"What happened when they took it?"* — rather than leading questions like *"Is that an allergy?"* to elicit an accurate description of the reaction.
+
 ## Competing Considerations
 
 | Consideration | Direction |
