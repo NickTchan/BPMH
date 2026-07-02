@@ -30,13 +30,17 @@ This Expertise Map covers the knowledge, procedures, decisions, and tacit expert
 ## Bundle Navigation
 
 ### Domain & Experts
+
 | ID | Title | Type | Certainty |
 |----|-------|------|----------|
 | [DOM-001](domain/bpmh-nsw-health.md) | Best Possible Medication History (BPMH) in NSW Health | Performance Domain | documented |
 | [EXP-001](experts/bpmh-clinician-nsw.md) | Archetypal BPMH Practitioner — NSW Health Hospital Pharmacist | Expert Profile | inferred |
+| [EXP-002](experts/paediatric-formulation-handling.md) | Paediatric Formulation Handling | Expertise | documented |
+| [EXP-003](experts/clinical-change-rationale-cues.md) | Clinical Change Rationale Cues | Expertise | documented |
 | [NOV-001](novice-calibration/bpmh-novice-definition.md) | Novice Definition — BPMH Practitioner | Novice Calibration | inferred |
 
 ### Whole Tasks
+
 | ID | Title | Type | Certainty |
 |----|-------|------|----------|
 | [TSK-001](tasks/obtain-bpmh-admission.md) | Obtain Best Possible Medication History at Admission | Whole Task | documented |
@@ -44,6 +48,7 @@ This Expertise Map covers the knowledge, procedures, decisions, and tacit expert
 | [TSK-003](tasks/supply-medicines-info-discharge.md) | Supply Accurate Medicines Information at Discharge | Whole Task | documented |
 
 ### Foundational Concepts
+
 | ID | Term | Type | Certainty |
 |----|------|------|----------|
 | [CON-001](concepts/best-possible-medication-history.md) | Best Possible Medication History (BPMH) | Concept Definition | documented |
@@ -55,6 +60,7 @@ This Expertise Map covers the knowledge, procedures, decisions, and tacit expert
 | [CON-007](concepts/medication-adherence.md) | Medication Adherence | Concept Definition | documented |
 
 ### Procedures
+
 | ID | Title | Type | Certainty |
 |----|-------|------|----------|
 | [PRC-001](procedures/collect-medication-information.md) | Collect Medication Information for BPMH | Procedure | documented |
@@ -62,8 +68,12 @@ This Expertise Map covers the knowledge, procedures, decisions, and tacit expert
 | [PRC-003](procedures/compare-bpmh-to-prescribed-medicines.md) | Compare BPMH Against Prescribed Medicines | Procedure | documented |
 | [PRC-004](procedures/supply-medicines-information.md) | Supply Accurate Medicines Information | Procedure | documented |
 | [PRC-005](procedures/patient-counselling-techniques.md) | Patient Counselling Techniques for Medication Changes | Procedure | documented |
+| [PRC-007](procedures/structured-patient-introduction.md) | Structured Patient Introduction for BPMH | Procedure | documented |
+| [PRC-008](procedures/family-illness-screening.md) | Family Illness Context Screening | Procedure | documented |
+| [PRC-009](procedures/emr-bpmh-documentation.md) | eMR BPMH Documentation Workflow | Procedure | documented |
 
 ### Decision Points
+
 | ID | Title | Type | Certainty |
 |----|-------|------|----------|
 | [DEC-001](decisions/classify-discrepancy-intentional-vs-unintentional.md) | Classify Discrepancy as Intentional or Unintentional | Decision Point | documented |
@@ -71,37 +81,44 @@ This Expertise Map covers the knowledge, procedures, decisions, and tacit expert
 | [DEC-003](decisions/distinguish-allergy-from-side-effect.md) | Distinguish Drug Allergy from Side Effect or Intolerance | Decision Point | documented |
 | [DEC-004](decisions/select-verification-sources.md) | Select Verification Sources for BPMH | Decision Point | tacit_candidate |
 | [DEC-005](decisions/resolve-conflicting-sources.md) | Resolve Conflicting Medication Information Sources | Decision Point | tacit_candidate |
-| [DEC-006](decisions/assess-adherence-pattern.md) | Assess Patient Medication Adherence Pattern | Decision Point | tacit_candidate |
+| [DEC-006](decisions/assess-adherence-pattern.md) | Assess Patient Medication Adherence Pattern | Decision Point | documented |
+| [DEC-007](decisions/immunisation-relevance-to-bpmh.md) | Immunisation Status Relevance to BPMH | Decision Point | documented |
 
 ### Discriminations
+
 | ID | Title | Type | Certainty |
 |----|-------|------|----------|
 | [DISC-001](discriminations/recognise-clinical-rationale-for-change.md) | Recognise Clinical Rationale for Medication Change | Discrimination | tacit_candidate |
 | [DISC-002](discriminations/identify-immunological-vs-non-immunological-reaction.md) | Identify Immunological vs. Non-Immunological Reaction | Discrimination | documented |
 
 ### Mental Models
+
 | ID | Title | Type | Certainty |
 |----|-------|------|----------|
-| [MM-001](mentalmodels/bpmh-as-diagnostic-conversation.md) | BPMH as Diagnostic Conversation | Mental Model | tacit_candidate |
+| [MM-001](mentalmodels/bpmh-as-diagnostic-conversation.md) | BPMH as Diagnostic Conversation | Mental Model | documented |
 
 ### Heuristics
+
 | ID | Title | Type | Certainty |
 |----|-------|------|----------|
 | [HEUR-001](heuristics/polypharmacy-probing-rule.md) | Polypharmacy Probing Rule | Heuristic | tacit_candidate |
 | [HEUR-002](heuristics/common-otc-prompt-list.md) | Common OTC Prompt List | Heuristic | documented |
 
 ### Risks
+
 | ID | Title | Type | Certainty |
 |----|-------|------|----------|
 | [RISK-001](risks/unintentional-discrepancy-causes-harm.md) | Unintentional Medication Discrepancy Causes Patient Harm | Risk | documented |
 | [RISK-002](risks/incomplete-bpmh-propagates-errors.md) | Incomplete BPMH Propagates Errors Through Episode of Care | Risk | documented |
 
 ### Learning Curve
+
 | ID | Title | Type | Certainty |
 |----|-------|------|----------|
 | [LC-001](learningcurve/bpmh-skill-progression.md) | BPMH Skill Progression Stages | Learning Curve Observation | inferred |
 
 ### Complexity Factors
+
 | ID | Title | Type | Certainty |
 |----|-------|------|----------|
 | [CX-001](complexity/polypharmacy-increases-bpmh-difficulty.md) | Polypharmacy Increases BPMH Complexity | Complexity Factor | documented |
@@ -109,6 +126,7 @@ This Expertise Map covers the knowledge, procedures, decisions, and tacit expert
 | [CX-003](complexity/time-pressure-acute-settings.md) | Time Pressure in Acute Settings | Complexity Factor | documented |
 
 ### Scenarios
+
 | ID | Title | Type | Certainty |
 |----|-------|------|----------|
 | [SCN-001](scenarios/polypharmacy-elderly-admission.md) | Elderly Patient with Polypharmacy — ED Admission | Scenario | inferred |
@@ -116,6 +134,7 @@ This Expertise Map covers the knowledge, procedures, decisions, and tacit expert
 | [SCN-003](scenarios/omitted-anticoagulant.md) | Omitted Anticoagulant — High-Risk Discrepancy | Scenario | inferred |
 
 ### Identified Knowledge Gaps
+
 | ID | Gap Title | Priority | Related Concepts | Certainty |
 |----|-----------|----------|------------------|-----------|
 | [GAP-005](gaps/expert-mental-model-bpmh.md) | Expert Mental Model of the Patient's Medication Ecosystem | 5 | [MM-001], [PRC-001] | tacit_candidate |
@@ -128,6 +147,7 @@ This Expertise Map covers the knowledge, procedures, decisions, and tacit expert
 | [GAP-008](gaps/discharge-communication-effectiveness.md) | Expert Strategies for Effective Discharge Medication Communication | 3 | [PRC-004], [TSK-003] | tacit_candidate |
 
 ### References
+
 | ID | Title | Type |
 |----|-------|------|
 | [REF-001](references/cec-med-rec.md) | NSW CEC — Medication Reconciliation | Reference |
@@ -140,6 +160,7 @@ This Expertise Map covers the knowledge, procedures, decisions, and tacit expert
 | [REF-008](references/springer-nature-umds.md) | Springer Nature — Unintended Medication Discrepancies at Transitions of Care | Reference |
 
 ### Curriculum Architecture
+
 | ID | Title | Type | Certainty |
 |----|-------|------|-----------|
 | [CUR-001](curriculum/bpmh-nsw-health-curriculum-overview.md) | BPMH NSW Health Curriculum Overview | Curriculum Overview | inferred |
