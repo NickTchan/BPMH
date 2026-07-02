@@ -35,6 +35,7 @@ To systematically compare the verified Best Possible Medication History against 
 - Ensure all active orders are visible
 
 ### Step 2: Perform Line-by-Line Comparison
+
 For each medication on the BPMH:
 - Check if it appears in the current orders
 - If present, compare: name, dose, frequency, route
@@ -61,6 +62,18 @@ The reconciliation process involves distinct roles for pharmacists and prescribe
 - **Pharmacist post-step:** Double-check the discharge summary and prescriptions for completeness and accuracy
 
 > **Note:** This role division may vary by Local Health District (LHD) and EMR system configuration. Always confirm local workflow expectations.
+
+## NSW Health eMR Documentation Workflow
+
+After completing the BPMH and comparison steps, follow this documentation workflow in PowerChart/eMR:
+
+1. Complete the BPMH form (paper or electronic)
+2. Compare the completed BPMH against medicines prescribed in PowerChart
+3. Notify the medical team of **any** discrepancies — do not resolve discrepancies independently
+4. Sign, date, and time the completed BPMH form
+5. File the completed form in the patient's medical record
+
+> **Note:** Discrepancies include omissions, dose differences, formulation changes, and timing mismatches — not just different drug names. Even when the same medication appears in both sources, differences in dose, frequency, or formulation constitute a discrepancy requiring notification.
 
 ## Decision Points
 
