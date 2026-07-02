@@ -30,6 +30,19 @@ A standard set of commonly used over-the-counter medications that experts routin
 | **Topical products** | Corticosteroid creams, antifungal creams, eye drops |
 | **Supplements** | Vitamins, minerals, fish oil, probiotics |
 
+## Paediatric-Specific OTC Probes
+
+In paediatric settings, the following OTC medications should be probed for in priority order:
+
+1. **Paracetamol** — Dose, formulation (liquid, suppository, tablet), and last administration time
+2. **Ibuprofen (Nurofen)** — Dose, formulation, and last administration time
+3. **Antihistamines** — Including sedating and non-sedating varieties
+4. **Cough and cold preparations** — Combination products often contain multiple active ingredients
+5. **Topical products** — Creams, ointments, eye drops, and nasal sprays
+6. **Vitamins and supplements** — Including herbal products and probiotics
+
+> **Timeframe rule:** Always ask about OTC use within the last **48 hours** for inpatient BPMH contexts. For outpatient or discharge contexts, extend the recall window to **7 days**.
+
 ## Application
 
 Used during **[PRC-001](../procedures/collect-medication-information.md)** Step 2, Question 6 (prompted recall): *"To make sure that I have not missed anything, do you take any of the following...?"*
