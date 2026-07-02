@@ -28,6 +28,19 @@ related:
 
 To gather a comprehensive list of all medicines the patient is currently taking, using a systematic interview process and initial source review.
 
+## Recommended Interview Sequence
+
+The BPMH interview follows a fixed sequence that moves from broad background to specific medication details. Rushing to the medication list before covering background items often misses clinically significant information.
+
+1. **Introduction & rapport** — Establish trust using a structured framework (e.g., HAIDET: Handshake, Introduce, Ask patient preference, Duration, Explain)
+2. **Background review** — Immunisation status, hereditary/chronic conditions, recent presentations, family illness context
+3. **Current regular medications** — Name, dose, frequency, formulation, adherence pattern for each
+4. **Recently taken medications** — Within the last 48 hours, including PRN and OTC products
+5. **Allergies and adverse reactions** — Distinguish immunological from non-immunological responses
+6. **Social & adherence context** — Who manages administration, formulation difficulties, access barriers (pharmacy proximity, cost), recent changes
+
+> **Tacit cue:** Background review items often elicit more useful information than direct medication questioning. A parent may not consider a hereditary condition (e.g., spherocytosis requiring folic acid) as "medication-related" until prompted. Do not rush to the medication list until background is covered.
+
 ## Procedure Steps
 
 ### Step 1: Prepare for the Interview
